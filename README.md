@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 <a href="https://github.com/microchipgnu"><img src="https://github-readme-stats.vercel.app/api?username=microchipgnu&count_private=true&include_all_commits=true&hide_rank=true&theme=graywhite" align="right" width="460" alt="Luís Freitas github stats" /></a>
 
-<!--
-**microchipgnu/microchipgnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer from Lisbon. 
 
-Here are some ideas to get you started:
+I've been focused on immersive technologies (XR and WebXR) and decentralized web (web3, blockchain and digital assets).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working at @aura-studios, @wonderleap and few other projects.
+- 🌱 I’m currently learning about the world of finances.
+- 👯 I’m looking to collaborate on R&D or product teams.
+- 📫 How to reach me: microchipgnu@gmail.com, luis@aurastudios.com or luis@wonderleap.com
+- 😄 Pronouns: he/him
+- ⚡ Fun facts: [Learn](https://cv4thefuture.glitch.me) more about me
+
