@@ -5,6 +5,5 @@ I'm a fullstack software engineer from Lisbon.
 I've been focused on immersive technologies (XR and WebXR) and decentralized web (web3, blockchain and digital assets).
 
 - 🔭 I’m currently working at @mintbase.
-- 🌱 I’m currently learning about the world of finances.
 - 📫 How to reach me: luis@mintbase.io, microchipgnu@gmail.com or luis@aurastudios.xyz.
 
