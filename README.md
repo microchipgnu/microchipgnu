@@ -16,7 +16,3 @@ I've been focused on immersive technologies (XR and WebXR) and decentralized web
 <a href="https://www.3xr.space/microchipgnu.near/owned" target="_blank">
   <img src="https://user-images.githubusercontent.com/5553483/149324908-0f2d36d6-bc98-44a4-8aae-06e498201e62.png" style="width: 500px"/>
 </a>
-
-### Stats 
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=microchipgnu&show_icons=false)
