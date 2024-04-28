@@ -1,5 +1,3 @@
-<a href="https://gitroll.io/profile/uA1Ory1EuEHa0rPf1vgyi1qKaugz2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uA1Ory1EuEHa0rPf1vgyi1qKaugz2" alt="GitRoll Profile Badge"/></a>
-
 
 I've been focused on immersive technologies (XR and WebXR) and decentralized web (web3, blockchain and digital assets).
 
