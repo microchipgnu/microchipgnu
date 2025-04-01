@@ -9,12 +9,6 @@
 ╚════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-
-<pre>
-<span style="color:#00FF00">█ ONLINE</span>
-<span style="color:#00FF00">█ localhost</span>
-</pre>
-
 <div align="center">
   <a href="https://bitte.ai"><img src="https://img.shields.io/badge/BITTE.AI-%23FF00FF.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0id2hpdGUiIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHBhdGggZD0iTTggMTVBNy41IDcuNSAwIDEgMSA4IDBhNy41IDcuNSAwIDAgMSAwIDE1eiIvPjwvc3ZnPg==&logoColor=white" alt="Bitte.ai"></a>
   <a href="https://aim.tools"><img src="https://img.shields.io/badge/AIM-%2300FFFF.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0id2hpdGUiIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHBhdGggZD0iTTggMWE3IDcgMCAxIDAgMCAxNEE3IDcgMCAwIDAgOCAxeiIvPjwvc3ZnPg==&logoColor=white" alt="AIM"></a>
